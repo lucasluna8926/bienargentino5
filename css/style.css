@@ -352,7 +352,8 @@ height:12vh}}
 @media (max-width: 1800px)
 {.footer1:hover { transform: none;
   box-shadow: inset 0 0 50px;
-  transition: 0.2s
+  transition: 0.2s;
+  border: double black
 ;}}
 
 @media (max-width: 1800px)
