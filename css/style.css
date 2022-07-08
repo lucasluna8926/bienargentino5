@@ -398,43 +398,42 @@ margin: 0px;}}
 @media (max-width: 650px)
 {.seccion1:hover{
 transform: none;
-}
+  }}
 
 @media (max-width: 650px)
 {.seccion2:hover{
 transform: none;
-}
+  }}
 
 @media (max-width: 650px)
 {.seccion3:hover{
 transform: none;
-}
+  }}
 
 @media (max-width: 650px)
 {.seccion4:hover{
 transform: none;
-}
+  }}
 
 @media (max-width: 650px)
 {.seccion1{
 margin: 2px;
-}
+  }}
 
 @media (max-width: 650px)
 {.seccion2{
   margin: 2px;
-}
+  }}
 
 @media (max-width: 650px)
 {.seccion3{
   margin: 2px;
-}
+  }}
 
 @media (max-width: 650px)
 {.seccion4{
   margin: 2px;
-}
-
+  }}
 
 
 @media (max-width: 650px)
@@ -444,14 +443,14 @@ margin: 2px;
   text-align: center;
   margin-left: 0%;
   
-}
+  }}
 
 @media (max-width: 650px)
 {.form1{
  display: flex;
  justify-content: center;
   
-}
+  }}
 
 
 @media (max-width: 650px)
@@ -459,7 +458,7 @@ margin: 2px;
  font-size: 1em;
  color:black
   
-}
+  }}
 
 
 
@@ -468,7 +467,7 @@ margin: 2px;
  font-size: 1em;
  color:black
   
-}
+  }}
 
 @media (max-width: 650px)
 {span:hover{
